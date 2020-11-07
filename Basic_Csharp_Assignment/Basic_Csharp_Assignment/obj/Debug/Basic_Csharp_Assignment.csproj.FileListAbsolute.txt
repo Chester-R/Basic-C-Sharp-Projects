@@ -1,0 +1,7 @@
+C:\Users\chest\source\repos\Basic_Csharp_Assignment\Basic_Csharp_Assignment\bin\Debug\Basic_Csharp_Assignment.exe.config
+C:\Users\chest\source\repos\Basic_Csharp_Assignment\Basic_Csharp_Assignment\bin\Debug\Basic_Csharp_Assignment.exe
+C:\Users\chest\source\repos\Basic_Csharp_Assignment\Basic_Csharp_Assignment\bin\Debug\Basic_Csharp_Assignment.pdb
+C:\Users\chest\source\repos\Basic_Csharp_Assignment\Basic_Csharp_Assignment\obj\Debug\Basic_Csharp_Assignment.csprojAssemblyReference.cache
+C:\Users\chest\source\repos\Basic_Csharp_Assignment\Basic_Csharp_Assignment\obj\Debug\Basic_Csharp_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\chest\source\repos\Basic_Csharp_Assignment\Basic_Csharp_Assignment\obj\Debug\Basic_Csharp_Assignment.exe
+C:\Users\chest\source\repos\Basic_Csharp_Assignment\Basic_Csharp_Assignment\obj\Debug\Basic_Csharp_Assignment.pdb
