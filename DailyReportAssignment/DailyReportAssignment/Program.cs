@@ -11,8 +11,9 @@ namespace DailyReportAssignment
             Console.WriteLine("What course are you in?");
             string courseName = Console.ReadLine();
             //Question 2
-            Console.WriteLine("What page number");
+            Console.WriteLine("What page number?");
             string pageNumber = Console.ReadLine();
+            int pageNum = Convert.ToInt32(pageNumber);
             //Question 3
             Console.WriteLine("Do you need help with anything? Please answer “true” or “false”.");
             string help = Console.ReadLine();
