@@ -1,0 +1,7 @@
+C:\Users\chest\source\repos\MathOperationAssignment\MathOperationAssignment\bin\Debug\MathOperationAssignment.exe.config
+C:\Users\chest\source\repos\MathOperationAssignment\MathOperationAssignment\bin\Debug\MathOperationAssignment.exe
+C:\Users\chest\source\repos\MathOperationAssignment\MathOperationAssignment\bin\Debug\MathOperationAssignment.pdb
+C:\Users\chest\source\repos\MathOperationAssignment\MathOperationAssignment\obj\Debug\MathOperationAssignment.csprojAssemblyReference.cache
+C:\Users\chest\source\repos\MathOperationAssignment\MathOperationAssignment\obj\Debug\MathOperationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chest\source\repos\MathOperationAssignment\MathOperationAssignment\obj\Debug\MathOperationAssignment.exe
+C:\Users\chest\source\repos\MathOperationAssignment\MathOperationAssignment\obj\Debug\MathOperationAssignment.pdb
