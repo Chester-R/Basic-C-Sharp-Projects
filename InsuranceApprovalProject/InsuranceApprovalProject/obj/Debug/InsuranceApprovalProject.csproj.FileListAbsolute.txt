@@ -1,0 +1,7 @@
+C:\Users\chest\source\repos\InsuranceApprovalProject\InsuranceApprovalProject\bin\Debug\InsuranceApprovalProject.exe.config
+C:\Users\chest\source\repos\InsuranceApprovalProject\InsuranceApprovalProject\bin\Debug\InsuranceApprovalProject.exe
+C:\Users\chest\source\repos\InsuranceApprovalProject\InsuranceApprovalProject\bin\Debug\InsuranceApprovalProject.pdb
+C:\Users\chest\source\repos\InsuranceApprovalProject\InsuranceApprovalProject\obj\Debug\InsuranceApprovalProject.csprojAssemblyReference.cache
+C:\Users\chest\source\repos\InsuranceApprovalProject\InsuranceApprovalProject\obj\Debug\InsuranceApprovalProject.csproj.CoreCompileInputs.cache
+C:\Users\chest\source\repos\InsuranceApprovalProject\InsuranceApprovalProject\obj\Debug\InsuranceApprovalProject.exe
+C:\Users\chest\source\repos\InsuranceApprovalProject\InsuranceApprovalProject\obj\Debug\InsuranceApprovalProject.pdb
