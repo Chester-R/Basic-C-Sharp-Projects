@@ -13,7 +13,7 @@ namespace Price_QuoteApplicationAssignment
             Console.WriteLine("Welcome to Package Express. Please follow the instructions below.");
             //Package weight
             Console.Write("Please enter the package weight: ");
-            int packWeight = Convert.ToInt32(Console.ReadLine());
+            double packWeight = Convert.ToDouble(Console.ReadLine());
             if (packWeight > 50)
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express.Have a good day.");
