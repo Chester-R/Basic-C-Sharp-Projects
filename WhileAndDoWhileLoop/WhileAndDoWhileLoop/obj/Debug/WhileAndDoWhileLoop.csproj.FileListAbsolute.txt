@@ -1,0 +1,7 @@
+C:\Users\chest\source\repos\WhileAndDoWhileLoop\WhileAndDoWhileLoop\bin\Debug\WhileAndDoWhileLoop.exe.config
+C:\Users\chest\source\repos\WhileAndDoWhileLoop\WhileAndDoWhileLoop\bin\Debug\WhileAndDoWhileLoop.exe
+C:\Users\chest\source\repos\WhileAndDoWhileLoop\WhileAndDoWhileLoop\bin\Debug\WhileAndDoWhileLoop.pdb
+C:\Users\chest\source\repos\WhileAndDoWhileLoop\WhileAndDoWhileLoop\obj\Debug\WhileAndDoWhileLoop.csprojAssemblyReference.cache
+C:\Users\chest\source\repos\WhileAndDoWhileLoop\WhileAndDoWhileLoop\obj\Debug\WhileAndDoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\chest\source\repos\WhileAndDoWhileLoop\WhileAndDoWhileLoop\obj\Debug\WhileAndDoWhileLoop.exe
+C:\Users\chest\source\repos\WhileAndDoWhileLoop\WhileAndDoWhileLoop\obj\Debug\WhileAndDoWhileLoop.pdb
