@@ -1,0 +1,7 @@
+C:\Users\chest\source\repos\ConsoleAppIterationAssignment\ConsoleAppIterationAssignment\bin\Debug\ConsoleAppIterationAssignment.exe.config
+C:\Users\chest\source\repos\ConsoleAppIterationAssignment\ConsoleAppIterationAssignment\bin\Debug\ConsoleAppIterationAssignment.exe
+C:\Users\chest\source\repos\ConsoleAppIterationAssignment\ConsoleAppIterationAssignment\bin\Debug\ConsoleAppIterationAssignment.pdb
+C:\Users\chest\source\repos\ConsoleAppIterationAssignment\ConsoleAppIterationAssignment\obj\Debug\ConsoleAppIterationAssignment.csprojAssemblyReference.cache
+C:\Users\chest\source\repos\ConsoleAppIterationAssignment\ConsoleAppIterationAssignment\obj\Debug\ConsoleAppIterationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chest\source\repos\ConsoleAppIterationAssignment\ConsoleAppIterationAssignment\obj\Debug\ConsoleAppIterationAssignment.exe
+C:\Users\chest\source\repos\ConsoleAppIterationAssignment\ConsoleAppIterationAssignment\obj\Debug\ConsoleAppIterationAssignment.pdb
