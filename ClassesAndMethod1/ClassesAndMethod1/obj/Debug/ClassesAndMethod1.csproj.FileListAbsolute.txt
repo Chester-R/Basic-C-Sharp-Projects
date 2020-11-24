@@ -1,0 +1,7 @@
+C:\Users\chest\source\repos\ClassesAndMethod1\ClassesAndMethod1\bin\Debug\ClassesAndMethod1.exe.config
+C:\Users\chest\source\repos\ClassesAndMethod1\ClassesAndMethod1\bin\Debug\ClassesAndMethod1.exe
+C:\Users\chest\source\repos\ClassesAndMethod1\ClassesAndMethod1\bin\Debug\ClassesAndMethod1.pdb
+C:\Users\chest\source\repos\ClassesAndMethod1\ClassesAndMethod1\obj\Debug\ClassesAndMethod1.csprojAssemblyReference.cache
+C:\Users\chest\source\repos\ClassesAndMethod1\ClassesAndMethod1\obj\Debug\ClassesAndMethod1.csproj.CoreCompileInputs.cache
+C:\Users\chest\source\repos\ClassesAndMethod1\ClassesAndMethod1\obj\Debug\ClassesAndMethod1.exe
+C:\Users\chest\source\repos\ClassesAndMethod1\ClassesAndMethod1\obj\Debug\ClassesAndMethod1.pdb
