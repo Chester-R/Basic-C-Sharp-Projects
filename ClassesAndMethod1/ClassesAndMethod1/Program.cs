@@ -21,29 +21,29 @@ namespace ClassesAndMethod1
             //Console.ReadLine();
 
             //# 3 & 4
-            //Console.Write("Input first number: ");
-            //double num1 = Convert.ToDouble(Console.ReadLine());
-            //Console.Write("Input second number: ");
-            //double num2 = Convert.ToDouble(Console.ReadLine());
-            //double product = BasicMath.Operation(num1, num2);
-            //Console.WriteLine($"{num1} * {num2} = {product}");
+            Console.Write("Input first number: ");
+            double num1 = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Input second number: ");
+            double num2 = Convert.ToDouble(Console.ReadLine());
+            double product = BasicMath.Operation(num1, num2);
+            Console.WriteLine($"{num1} * {num2} = {product}");
 
-            //Console.ReadLine();
+            Console.ReadLine();
 
             //# 5 & 6
-            Console.WriteLine("\t\tODD or EVEN");
-            Console.Write("Input any whole number: ");
-            string num1 = Console.ReadLine();
-            int remainder = Convert.ToInt32(BasicMath.Operation(num1));
-            if (remainder > 0)
-            {
-                Console.WriteLine($"{num1} is an Odd number.");
-            }
-            else
-            {
-                Console.WriteLine($"{num1} is an Even number.");
-            }
-            Console.ReadLine();
+            //Console.WriteLine("\t\tODD or EVEN");
+            //Console.Write("Input any whole number: ");
+            //string num1 = Console.ReadLine();
+            //int remainder = BasicMath.Operation(num1);
+            //if (remainder > 0)
+            //{
+            //    Console.WriteLine($"{num1} is an Odd number.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine($"{num1} is an Even number.");
+            //}
+            //Console.ReadLine();
         }
     }
 }
