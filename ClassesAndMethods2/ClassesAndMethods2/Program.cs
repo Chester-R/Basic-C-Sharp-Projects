@@ -15,7 +15,7 @@ namespace ClassesAndMethods2
             Console.Write("Input seconds number (not required): ");
             string num = Console.ReadLine();
 
-            if (!string.IsNullOrEmpty(num))
+            if ( string.IsNullOrEmpty(num))
             {
                 int quotient = BasicMath.MathOp(num1);
                 Console.WriteLine($"Answer is equal to {quotient}");
