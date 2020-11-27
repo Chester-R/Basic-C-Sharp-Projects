@@ -6,18 +6,21 @@ using System.Threading.Tasks;
 
 namespace ClassMethodAssignment
 {
-    class BasicMath
+    public static class BasicMath
     {
-        public void Divide(int num)
+        public static void OverTwo(int num)
         {
-            int quotient = num / 2;
-            Console.WriteLine($"{num} divide by 2 is equal to {quotient}");
+            int answer = num / 2;
+            Console.WriteLine($"{num} divided by 2 is equal to {answer}");
         }
 
-        public static void Divide(out int quotient, int num)
+        public static void OverTwo(out int answer, int num)
         {
-            quotient = num / 2;
+            answer = num / 2;
+            Console.WriteLine($"{num} divided by 2 is equal to {answer}");
         }
+
+
 
       
 

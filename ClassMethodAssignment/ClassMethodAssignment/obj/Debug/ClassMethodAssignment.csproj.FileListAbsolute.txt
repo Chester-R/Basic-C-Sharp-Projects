@@ -5,3 +5,10 @@ C:\Users\chest\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debu
 C:\Users\chest\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\ClassMethodAssignment.csproj.CoreCompileInputs.cache
 C:\Users\chest\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\ClassMethodAssignment.exe
 C:\Users\chest\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\ClassMethodAssignment.pdb
+C:\Users\chest\Documents\GitHub\Basic-C-Sharp-Projects\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\ClassMethodAssignment.exe.config
+C:\Users\chest\Documents\GitHub\Basic-C-Sharp-Projects\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\ClassMethodAssignment.exe
+C:\Users\chest\Documents\GitHub\Basic-C-Sharp-Projects\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\ClassMethodAssignment.pdb
+C:\Users\chest\Documents\GitHub\Basic-C-Sharp-Projects\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\ClassMethodAssignment.csprojAssemblyReference.cache
+C:\Users\chest\Documents\GitHub\Basic-C-Sharp-Projects\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\ClassMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chest\Documents\GitHub\Basic-C-Sharp-Projects\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\ClassMethodAssignment.exe
+C:\Users\chest\Documents\GitHub\Basic-C-Sharp-Projects\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\ClassMethodAssignment.pdb
