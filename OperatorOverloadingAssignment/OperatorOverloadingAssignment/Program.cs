@@ -37,14 +37,6 @@ namespace OperatorOverloadingAssignment
         {
             Id = id;
         }
-        
-        public static Employee operator+ (Employee a, Employee b)
-        {
-            Employee employee = new Employee();
-            employee.Id = a.Id;
-            employee.Id = b.Id;
-            return employee;
-        }
 
         public static bool operator== (Employee emp1, Employee emp2)
         {
