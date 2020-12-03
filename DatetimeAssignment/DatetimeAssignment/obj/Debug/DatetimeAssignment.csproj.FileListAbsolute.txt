@@ -1,0 +1,7 @@
+C:\Users\chest\source\repos\DatetimeAssignment\DatetimeAssignment\bin\Debug\DatetimeAssignment.exe.config
+C:\Users\chest\source\repos\DatetimeAssignment\DatetimeAssignment\bin\Debug\DatetimeAssignment.exe
+C:\Users\chest\source\repos\DatetimeAssignment\DatetimeAssignment\bin\Debug\DatetimeAssignment.pdb
+C:\Users\chest\source\repos\DatetimeAssignment\DatetimeAssignment\obj\Debug\DatetimeAssignment.csprojAssemblyReference.cache
+C:\Users\chest\source\repos\DatetimeAssignment\DatetimeAssignment\obj\Debug\DatetimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chest\source\repos\DatetimeAssignment\DatetimeAssignment\obj\Debug\DatetimeAssignment.exe
+C:\Users\chest\source\repos\DatetimeAssignment\DatetimeAssignment\obj\Debug\DatetimeAssignment.pdb
