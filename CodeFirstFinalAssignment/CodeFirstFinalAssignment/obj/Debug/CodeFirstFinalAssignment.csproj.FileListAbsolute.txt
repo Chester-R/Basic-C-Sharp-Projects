@@ -1,0 +1,12 @@
+C:\Users\chest\source\repos\CodeFirstFinalAssignment\CodeFirstFinalAssignment\bin\Debug\CodeFirstFinalAssignment.exe.config
+C:\Users\chest\source\repos\CodeFirstFinalAssignment\CodeFirstFinalAssignment\bin\Debug\CodeFirstFinalAssignment.exe
+C:\Users\chest\source\repos\CodeFirstFinalAssignment\CodeFirstFinalAssignment\bin\Debug\CodeFirstFinalAssignment.pdb
+C:\Users\chest\source\repos\CodeFirstFinalAssignment\CodeFirstFinalAssignment\bin\Debug\EntityFramework.dll
+C:\Users\chest\source\repos\CodeFirstFinalAssignment\CodeFirstFinalAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chest\source\repos\CodeFirstFinalAssignment\CodeFirstFinalAssignment\bin\Debug\EntityFramework.xml
+C:\Users\chest\source\repos\CodeFirstFinalAssignment\CodeFirstFinalAssignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chest\source\repos\CodeFirstFinalAssignment\CodeFirstFinalAssignment\obj\Debug\CodeFirstFinalAssignment.csprojAssemblyReference.cache
+C:\Users\chest\source\repos\CodeFirstFinalAssignment\CodeFirstFinalAssignment\obj\Debug\CodeFirstFinalAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chest\source\repos\CodeFirstFinalAssignment\CodeFirstFinalAssignment\obj\Debug\CodeFirstFinalAssignment.csproj.CopyComplete
+C:\Users\chest\source\repos\CodeFirstFinalAssignment\CodeFirstFinalAssignment\obj\Debug\CodeFirstFinalAssignment.exe
+C:\Users\chest\source\repos\CodeFirstFinalAssignment\CodeFirstFinalAssignment\obj\Debug\CodeFirstFinalAssignment.pdb
